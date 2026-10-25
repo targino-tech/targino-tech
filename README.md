@@ -1,10 +1,14 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=targino-tech&color=00E5FF&style=flat-square" alt="views"/>
 
-<h1 align="left">
-  <a href="https://github.com/targino-tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00E5FF&width=560&lines=Th%C3%A9o+Targino+%F0%9F%91%8B;IT+Analyst+%7C+Infrastructure;Networking+%7C+Cloud+%7C+Security;Observability+%7C+SOC+%7C+Zero+Trust" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
+  <!-- Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=TH%C3%89O%20TARGINO&fontSize=38&fontAlignY=36&desc=IT%20ANALYST%20%C2%B7%20INFRASTRUCTURE%20%C2%B7%20NETWORKING%20%C2%B7%20SECURITY&descAlignY=58&descSize=15&color=0:050505,100:00E5FF&fontColor=ffffff" width="100%"/>
+
+  <!-- Live Terminal Printing Effect (Typewriter) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=40&lines=%24+whoami+%E2%9E%9C+Th%C3%A9o+Targino+%5BIT+Analyst+%7C+SOC+%7C+Infra%5D;%24+sec-scan+%E2%9E%9C+FortiGate+%7C+Sophos+%7C+MikroTik+%7C+Zero+Trust+%5BSECURE%5D;%24+sys-check+%E2%9E%9C+Linux+%7C+Windows+Server+%7C+Proxmox+%7C+AWS+%5BONLINE%5D;%24+telemetry+%E2%9E%9C+Zabbix+%7C+Grafana+%7C+SNMP+%7C+n8n+%5BACTIVE%5D" alt="Terminal typing" />
+</div>
+
+<br/>
 
 > **Analista de Sistemas de TI Pleno & Infraestrutura.** Especialista em Infraestrutura de Redes, Cloud, Segurança e Observabilidade. Focado na arquitetura, sustentação e proteção de ambientes corporativos de missão crítica — desde redes físicas e firewalls (FortiGate, Sophos, MikroTik, Cisco) até cloud (AWS), virtualização de servidores (Proxmox, VMware), observabilidade (Zabbix, Grafana) e operações de SOC.
 
@@ -14,13 +18,16 @@
   <a href="https://github.com/targino-tech" title="GitHub"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Infrastructure-111111?style=flat-square&logo=serverfault&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/Networking-111111?style=flat-square&logo=cisco&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/Cloud%20%26%20Security-111111?style=flat-square&logo=cloudflare&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/Observability-111111?style=flat-square&logo=grafana&logoColor=00E5FF"/>
-  <img src="https://img.shields.io/badge/SOC%20Analyst-111111?style=flat-square&logo=shield&logoColor=00E5FF"/>
+<!-- Live Cyber & Infrastructure Status HUD -->
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC%20Status-DEFENDING%20%E2%80%A2%20ONLINE-00E5FF?style=flat-square&logo=shield&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Network-PROTECTED-00E5FF?style=flat-square&logo=cisco&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Infrastructure-HIGH%20AVAILABILITY-00E5FF?style=flat-square&logo=serverfault&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Telemetry-ZABBIX%20%7C%20GRAFANA-111111?style=flat-square&logo=grafana&logoColor=00E5FF"/>
 </p>
+
+<!-- Neon Glow Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00E5FF,100:050505" width="100%"/>
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -87,10 +94,17 @@
 
 </details>
 
+## 📊 Telemetria & Atividade
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=targino-tech&show_icons=true&theme=tokyonight&border_color=00E5FF&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" height="155"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=targino-tech&layout=compact&theme=tokyonight&border_color=00E5FF&bg_color=0D1117&title_color=00E5FF" height="155"/>
+</p>
+
 <br/>
 
----
-
+<!-- Waving Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00E5FF,100:050505"/>
 </div>
