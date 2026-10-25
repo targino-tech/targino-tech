@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="152" viewBox="0 0 300 152" role="img" aria-label="CUPS Root Intel">
+  <defs>
+    <linearGradient id="icon_cups" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0.05"/>
+    </linearGradient>
+    <radialGradient id="glow_cups" cx="0.9" cy="0" r="0.95">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path d="M0.75 153V16.75A16 16 0 0 1 16.75 0.75H283.25A16 16 0 0 1 299.25 16.75V153" fill="#0D1117" stroke="#242C37"/>
+  <path d="M0.75 153V16.75A16 16 0 0 1 16.75 0.75H283.25A16 16 0 0 1 299.25 16.75V153" fill="url(#glow_cups)"/>
+  <!-- Card Icon Box -->
+  <rect x="24" y="24" width="52" height="52" rx="14" fill="url(#icon_cups)" stroke="#00E5FF" stroke-opacity="0.4" stroke-width="1.2"/>
+  <g><rect x="36" y="36" width="28" height="20" rx="3" fill="none" stroke="#00E5FF" stroke-width="2.2"/>
+        <path d="M42 36V30a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v6M42 50v8h16v-8" fill="none" stroke="#00E5FF" stroke-width="2.2"/>
+        <line x1="40" y1="42" x2="44" y2="42" stroke="#00E5FF" stroke-width="2.5" stroke-linecap="round"/></g>
+  <text x="90" y="43" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="9.5" font-weight="600" letter-spacing="2" fill="#5B6672">SYSADMIN · UX</text>
+  <text x="89" y="69" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#00E5FF">CUPS Root Intel</text>
+  <line x1="24" y1="96" x2="276" y2="96" stroke="#1E252F"/>
+  <text x="24" y="122" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">Interface moderna com Dark Theme,</text><text x="24" y="141" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">Command Palette (Ctrl+K) para CUPS.</text>
+</svg>

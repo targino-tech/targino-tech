@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" role="img" aria-label="IDSEC SOC ANALYST">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+  <!-- Outer Ring -->
+  <circle cx="40" cy="40" r="37.5" fill="url(#bg)" stroke="url(#ring)" stroke-width="2"/>
+  <circle cx="40" cy="40" r="33" fill="none" stroke="#242C37" stroke-width="1" stroke-dasharray="2,2"/>
+  <!-- Icon Center -->
+  <g transform="translate(24, 18)">
+    <path d="M16 2L4 6v8c0 7.5 5.1 14.5 12 16 6.9-1.5 12-8.5 12-16V6l-12-4z" fill="none" stroke="#00E5FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="12" y="14" width="8" height="6" rx="1.5" fill="#00E5FF"/>
+<path d="M14 14v-2a2 2 0 0 1 4 0v2" fill="none" stroke="#00E5FF" stroke-width="1.8"/>
+  </g>
+  <!-- Badge Texts -->
+  <text x="40" y="58" font-family="'Segoe UI',Roboto,Helvetica,sans-serif" font-size="6.5" font-weight="700" text-anchor="middle" fill="#00E5FF" letter-spacing="0.5">IDSEC</text>
+  <text x="40" y="67" font-family="'Segoe UI',Roboto,Helvetica,sans-serif" font-size="5.5" font-weight="600" text-anchor="middle" fill="#8B949E">SOC ANALYST</text>
+</svg>
