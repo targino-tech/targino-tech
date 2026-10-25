@@ -87,17 +87,7 @@
 
 </details>
 
-## 🚀 Projetos em destaque
-
-<p align="center">
-  <a href="https://github.com/targino-tech/cups-root-intelligence" title="CUPS Root Intelligence"><img src="assets/card-cups-top.svg" width="32%" align="top" alt="CUPS Root Intelligence"/></a>
-  <a href="https://github.com/lucasmarujo/orkai-cli/pull/4" title="Orkai CLI (Contribuição pt-BR)"><img src="assets/card-orkai-top.svg" width="32%" align="top" alt="Orkai CLI"/></a>
-  <a href="https://github.com/targino-tech" title="Infra & SOC Lab"><img src="assets/card-infralab-top.svg" width="32%" align="top" alt="Infra & SOC Lab"/></a>
-  <br/>
-  <a href="https://github.com/targino-tech/cups-root-intelligence" title="Repositório"><img src="assets/card-cups-app.svg" width="16%" align="top" alt="Repositório"/></a><a href="https://github.com/targino-tech/cups-root-intelligence#readme" title="Ver Projeto"><img src="assets/card-cups-site.svg" width="16%" align="top" alt="Ver Projeto"/></a>
-  <a href="https://github.com/lucasmarujo/orkai-cli/pull/4" title="Ver PR"><img src="assets/card-orkai-app.svg" width="16%" align="top" alt="Ver PR"/></a><a href="https://github.com/lucasmarujo/orkai-cli" title="Orkai Repo"><img src="assets/card-orkai-site.svg" width="16%" align="top" alt="Orkai Repo"/></a>
-  <a href="https://github.com/targino-tech" title="Ver Stack"><img src="assets/card-infralab-app.svg" width="16%" align="top" alt="Ver Stack"/></a><a href="https://github.com/targino-tech" title="Detalhes"><img src="assets/card-infralab-site.svg" width="16%" align="top" alt="Detalhes"/></a>
-</p>
+<br/>
 
 ---
 
