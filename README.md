@@ -18,17 +18,41 @@ Analista de Sistemas de TI Pleno. Construo e sustento infraestrutura de missão 
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/targino-tech/malha"><img src="https://raw.githubusercontent.com/targino-tech/malha/main/apps/web/public/malha/malha-mark.svg" width="48" alt="Malha"/><br/><b>Malha</b></a><br/>
-      <sub>inventário de rede para o agro</sub>
+    <td valign="top" width="33%">
+      <p align="center"><a href="https://github.com/targino-tech/malha"><img src="https://raw.githubusercontent.com/targino-tech/malha/main/apps/web/public/malha/malha-mark.svg" width="48" alt="Malha"/></a></p>
+      <p align="center"><b><a href="https://github.com/targino-tech/malha">Malha</a></b><br/><sub>inventário de rede e ativos para o agro · open source</sub></p>
+      <sub>
+      ▸ coletor Go somente leitura no UniFi<br/>
+      ▸ alerta em 3 min quando a fazenda cai<br/>
+      ▸ Zabbix e Grafana montados do inventário<br/>
+      ▸ login Entra ID, AD/LDAP ou OIDC
+      </sub>
+      <p align="center"><img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=00ADD8"/> <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1"/></p>
+      <p align="center"><sub><a href="https://targino-tech.github.io/malha/">site</a> · <a href="https://targino-tech.github.io/malha/video/">vídeo</a> · <a href="https://github.com/targino-tech/malha">código</a></sub></p>
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/targino-tech/Motiroramento-T.I-"><img src="https://skillicons.dev/icons?i=grafana" width="48" alt="NOC Master 360°"/><br/><b>NOC Master 360°</b></a><br/>
-      <sub>monitoramento de TI · Zabbix + Grafana</sub>
+    <td valign="top" width="33%">
+      <p align="center"><a href="https://github.com/targino-tech/Motiroramento-T.I-"><img src="https://skillicons.dev/icons?i=grafana" width="48" alt="NOC Master 360°"/></a></p>
+      <p align="center"><b><a href="https://github.com/targino-tech/Motiroramento-T.I-">NOC Master 360°</a></b><br/><sub>monitoramento de TI · NOC em Docker</sub></p>
+      <sub>
+      ▸ visão geral e 5 painéis dedicados<br/>
+      ▸ WAN, Wi-Fi UniFi, servidores, impressoras e VoIP<br/>
+      ▸ alertas no Telegram e acesso por túnel<br/>
+      ▸ runbook de atendimento versionado
+      </sub>
+      <p align="center"><img src="https://img.shields.io/badge/Zabbix-111111?style=flat-square&logo=zabbix&logoColor=CC0000"/> <img src="https://img.shields.io/badge/Grafana-111111?style=flat-square&logo=grafana&logoColor=F46800"/> <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED"/></p>
+      <p align="center"><sub><a href="https://github.com/targino-tech/Motiroramento-T.I-">código</a></sub></p>
     </td>
-    <td align="center" width="33%">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="Central TI"/><br/><b>Central TI</b><br/>
-      <sub>API de inventário e integrações · privado</sub>
+    <td valign="top" width="33%">
+      <p align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="Central TI"/></p>
+      <p align="center"><b>Central TI</b><br/><sub>API de inventário, monitoramento e integrações</sub></p>
+      <sub>
+      ▸ agente PowerShell para PCs Windows<br/>
+      ▸ UniFi, Google Admin, AD (LDAPS) e Cloudflare<br/>
+      ▸ SNMP somente leitura em impressoras<br/>
+      ▸ alertas por limite, perfis e auditoria
+      </sub>
+      <p align="center"><img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1"/></p>
+      <p align="center"><sub>repositório privado</sub></p>
     </td>
   </tr>
 </table>
