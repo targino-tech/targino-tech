@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1500&color=39FF14&center=true&vCenter=true&width=600&height=60&lines=TH%C3%89O+TARGINO" alt="Théo Targino"/>
+<img src="assets/header.svg" alt="Théo Targino · Analista de Sistemas de TI Pleno · infra, redes, segurança, observabilidade e SOC" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=640&height=28&lines=%24+infra+%C2%B7+redes+%C2%B7+seguran%C3%A7a+%C2%B7+observabilidade;%24+fortigate+%7C+mikrotik+%7C+proxmox+%7C+aws;%24+zabbix+%7C+grafana+%7C+snmp+%7C+soc" alt="infra, redes, segurança e observabilidade"/>
+<br/>
 
-<a href="https://www.linkedin.com/in/theo-targino/"><img src="https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=39FF14"/></a>
-<a href="mailto:theotargino8@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=39FF14"/></a>
-<img src="https://komarev.com/ghpvc/?username=targino-tech&color=000000&style=flat-square&label=views"/>
+<a href="https://www.linkedin.com/in/theo-targino/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:theotargino8@gmail.com" title="E-mail"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" alt="E-mail"/></a>&nbsp;
+<a href="https://github.com/targino-tech" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" alt="GitHub"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=targino-tech&color=39FF14&style=flat-square&label=visitas"/>
 
 </div>
 
