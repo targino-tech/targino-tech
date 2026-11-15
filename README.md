@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=TH%C3%89O%20TARGINO&fontSize=38&fontAlignY=36&desc=IT%20ANALYST%20%C2%B7%20INFRASTRUCTURE%20%C2%B7%20NETWORKING%20%C2%B7%20SECURITY&descAlignY=58&descSize=15&color=0:050505,100:00E5FF&fontColor=ffffff" width="100%"/>
 
   <!-- Live Terminal Printing Effect (Typewriter) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=40&lines=%24+whoami+%E2%9E%9C+Th%C3%A9o+Targino+%5BIT+Analyst+%7C+SOC+%7C+Infra%5D;%24+sec-scan+%E2%9E%9C+FortiGate+%7C+Sophos+%7C+MikroTik+%7C+Zero+Trust+%5BSECURE%5D;%24+sys-check+%E2%9E%9C+Linux+%7C+Windows+Server+%7C+Proxmox+%7C+AWS+%5BONLINE%5D;%24+telemetry+%E2%9E%9C+Zabbix+%7C+Grafana+%7C+SNMP+%7C+n8n+%5BACTIVE%5D" alt="Terminal typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=40&lines=%24+whoami+%E2%9E%9C+Th%C3%A9o+Targino+%5BIT+Analyst+%7C+SOC+%7C+Infra%5D;%24+sec-scan+%E2%9E%9C+FortiGate+%7C+Sophos+%7C+MikroTik+%7C+Zero+Trust+%5BSECURE%5D;%24+sys-check+%E2%9E%9C+Linux+%7C+Windows+Server+%7C+Proxmox+%7C+AWS+%5BONLINE%5D;%24+telemetry+%E2%9E%9C+Zabbix+%7C+Grafana+%7C+SNMP+%7C+n8n+%5BACTIVE%5D;%24+git+log+%E2%9E%9C+Malha+%C2%B7+invent%C3%A1rio+de+rede+para+o+agro+%5BOPEN+SOURCE%5D" alt="Terminal typing" />
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 > **Analista de Sistemas de TI Pleno & Infraestrutura.** Especialista em Infraestrutura de Redes, Cloud, Segurança e Observabilidade. Focado na arquitetura, sustentação e proteção de ambientes corporativos de missão crítica — desde redes físicas e firewalls (FortiGate, Sophos, MikroTik, Cisco) até cloud (AWS), virtualização de servidores (Proxmox, VMware), observabilidade (Zabbix, Grafana) e operações de SOC.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/theotargino/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/theo-targino/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:theotargino8@gmail.com" title="Email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/targino-tech" title="GitHub"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
 </p>
@@ -24,6 +24,26 @@
   <img src="https://img.shields.io/badge/Network-PROTECTED-00E5FF?style=flat-square&logo=cisco&logoColor=black"/>
   <img src="https://img.shields.io/badge/Infrastructure-HIGH%20AVAILABILITY-00E5FF?style=flat-square&logo=serverfault&logoColor=black"/>
   <img src="https://img.shields.io/badge/Telemetry-ZABBIX%20%7C%20GRAFANA-111111?style=flat-square&logo=grafana&logoColor=00E5FF"/>
+</p>
+
+## 🌾 Projeto em destaque · Malha
+
+<a href="https://targino-tech.github.io/malha/video/"><img src="https://raw.githubusercontent.com/targino-tech/malha/main/docs/media/video/previa.gif" alt="Prévia do vídeo do Malha: mapa de Mato Grosso com fazendas, queda de internet com alerta em 3 minutos, painel do parque tecnológico e Zabbix e Grafana montados do inventário." width="100%"/></a>
+
+**[Malha](https://github.com/targino-tech/malha)** é um inventário vivo de rede e ativos para grupos agrícolas, open source (AGPL-3.0). Um coletor em Go lê a controladora UniFi de cada fazenda (somente leitura) e envia lotes assinados; a matriz vê tudo em um painel e é avisada em 3 minutos quando uma fazenda perde contato.
+
+- Zabbix 7.0 e Grafana montados a partir do inventário, por arquivo ou pela API
+- Login com Entra ID, AD/LDAP ou OpenID Connect (Google, Okta, Keycloak)
+- Multi-empresa com RLS no PostgreSQL, CSP com nonce, CodeQL, Scorecard e fuzzing no CI
+
+<p>
+  <a href="https://targino-tech.github.io/malha/"><img src="https://img.shields.io/badge/Site-00E5FF?style=flat-square&logo=githubpages&logoColor=black"/></a>
+  <a href="https://targino-tech.github.io/malha/video/"><img src="https://img.shields.io/badge/V%C3%ADdeo%2045s-111111?style=flat-square&logo=youtube&logoColor=00E5FF"/></a>
+  <a href="https://github.com/targino-tech/malha"><img src="https://img.shields.io/badge/C%C3%B3digo-111111?style=flat-square&logo=github&logoColor=00E5FF"/></a>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=00ADD8"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/UniFi-111111?style=flat-square&logo=ubiquiti&logoColor=white"/>
 </p>
 
 <!-- Neon Glow Divider -->
