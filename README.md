@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Théo Targino em arte ASCII · Analista de TI · infra, redes, segurança e observabilidade" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1500&color=39FF14&center=true&vCenter=true&width=600&height=60&lines=TH%C3%89O+TARGINO" alt="Théo Targino"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=640&height=28&lines=%24+infra+%C2%B7+redes+%C2%B7+seguran%C3%A7a+%C2%B7+observabilidade;%24+fortigate+%7C+mikrotik+%7C+proxmox+%7C+aws;%24+zabbix+%7C+grafana+%7C+snmp+%7C+soc" alt="infra, redes, segurança e observabilidade"/>
 
 <br/>
 
