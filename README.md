@@ -17,7 +17,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:39FF14,100:000000" width="100%"/>
 
-Analista de Sistemas de TI Pleno. Construo e sustento infraestrutura de missão crítica: redes e firewalls, servidores e virtualização, cloud, monitoramento e SOC. Gosto de transformar rotina de TI em ferramenta aberta.
+Analista de Infraestrutura de TI Pleno. Construo e sustento infraestrutura de missão crítica: redes e firewalls, servidores e virtualização, cloud, monitoramento e SOC. Gosto de transformar rotina de TI em ferramenta aberta.
 
 ## Projetos
 
