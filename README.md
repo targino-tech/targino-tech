@@ -16,49 +16,40 @@ Analista de Sistemas de TI Pleno. Construo e sustento infraestrutura de missão 
 
 ## Projetos
 
-### [Malha](https://github.com/targino-tech/malha)
-
-<a href="https://targino-tech.github.io/malha/video/"><img src="https://raw.githubusercontent.com/targino-tech/malha/main/docs/media/video/previa.gif" alt="Prévia do Malha: fazendas de Mato Grosso, alerta de queda em 3 minutos, painel do parque tecnológico e Zabbix e Grafana." width="100%"/></a>
-
-Inventário vivo de rede e ativos para grupos agrícolas. Coletor Go somente leitura no UniFi de cada fazenda, alerta em 3 minutos, Zabbix e Grafana montados do inventário, login Entra ID, AD/LDAP ou OIDC. Open source, AGPL-3.0.
-
-`Next.js` `Go` `PostgreSQL` `UniFi` `Zabbix` `Grafana` · [site](https://targino-tech.github.io/malha/) · [vídeo](https://targino-tech.github.io/malha/video/)
-
-### [NOC Master 360° · Monitoramento de TI](https://github.com/targino-tech/Motiroramento-T.I-)
-
-<a href="https://github.com/targino-tech/Motiroramento-T.I-"><img src="https://raw.githubusercontent.com/targino-tech/Motiroramento-T.I-/main/docs/img/01_noc_master_360.png" alt="NOC Master 360°: visão geral com atalhos para WAN, Wi-Fi, servidores, impressoras e telefonia." width="100%"/></a>
-
-NOC em Docker: Zabbix coleta e alerta, Grafana reúne uma visão geral e cinco painéis (links WAN, Wi-Fi UniFi, servidores, impressoras HP e ramais VoIP). Alertas no Telegram, acesso remoto por túnel e runbook de atendimento.
-
-`Zabbix` `Grafana` `PostgreSQL` `Docker` `Nginx` `SNMP`
-
-### Central TI <sub>· repositório privado</sub>
-
-API para inventário de ativos, monitoramento e integrações de TI: agente PowerShell para PCs Windows, SNMP somente leitura em impressoras, UniFi, Google Admin, Active Directory por LDAPS e Cloudflare. Alertas por limite com reabertura automática, perfis de acesso, auditoria e worker periódico.
-
-`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Docker`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:39FF14,100:000000" width="100%"/>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/targino-tech/malha"><img src="https://raw.githubusercontent.com/targino-tech/malha/main/apps/web/public/malha/malha-mark.svg" width="48" alt="Malha"/><br/><b>Malha</b></a><br/>
+      <sub>inventário de rede para o agro</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/targino-tech/Motiroramento-T.I-"><img src="https://skillicons.dev/icons?i=grafana" width="48" alt="NOC Master 360°"/><br/><b>NOC Master 360°</b></a><br/>
+      <sub>monitoramento de TI · Zabbix + Grafana</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" alt="Central TI"/><br/><b>Central TI</b><br/>
+      <sub>API de inventário e integrações · privado</sub>
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
-<p>
-  <img src="https://img.shields.io/badge/FortiGate-000000?style=flat-square&logo=fortinet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sophos-000000?style=flat-square&logo=sophos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MikroTik-000000?style=flat-square&logo=mikrotik&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OPNsense-000000?style=flat-square&logo=opnsense&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WireGuard-000000?style=flat-square&logo=wireguard&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Proxmox-000000?style=flat-square&logo=proxmox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows_Server-000000?style=flat-square&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zabbix-000000?style=flat-square&logo=zabbix&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,aws,cloudflare,bash,powershell,docker,grafana,prometheus,git,github,py&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FortiGate-111111?style=flat-square&logo=fortinet&logoColor=EE3124"/>
+  <img src="https://img.shields.io/badge/Sophos-111111?style=flat-square&logo=sophos&logoColor=005A70"/>
+  <img src="https://img.shields.io/badge/OPNsense-111111?style=flat-square&logo=opnsense&logoColor=D94F00"/>
+  <img src="https://img.shields.io/badge/MikroTik-111111?style=flat-square&logo=mikrotik&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proxmox-111111?style=flat-square&logo=proxmox&logoColor=E57000"/>
+  <img src="https://img.shields.io/badge/Zabbix-111111?style=flat-square&logo=zabbix&logoColor=CC0000"/>
+  <img src="https://img.shields.io/badge/WireGuard-111111?style=flat-square&logo=wireguard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=EA4B71"/>
 </p>
 
 ## Certificações
