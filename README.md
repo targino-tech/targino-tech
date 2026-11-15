@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Théo Targino · Analista de Sistemas de TI Pleno · infra, redes, segurança, observabilidade e SOC" width="100%"/>
+<img src="assets/header.svg" alt="Théo Targino em arte ASCII · Analista de TI · infra, redes, segurança e observabilidade" width="100%"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/theo-targino/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:theotargino8@gmail.com" title="E-mail"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" alt="E-mail"/></a>&nbsp;
-<a href="https://github.com/targino-tech" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" alt="GitHub"/></a>
+<a href="mailto:theotargino8@gmail.com" title="E-mail"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" alt="E-mail"/></a>
 
 <br/><br/>
 
@@ -82,49 +81,68 @@ Analista de Sistemas de TI Pleno. Construo e sustento infraestrutura de missão 
 
 ## Certificações
 
-<p align="left">
-  <a href="https://www.credly.com/org/cisco/badge/networking-basics" title="Cisco Networking Basics">
-    <img src="https://images.credly.com/size/80x80/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Networking Basics" width="80" height="80"/>
-  </a>
-  <a href="https://www.credly.com/org/fortinet/badge/introduction-to-the-threat-landscape-1-0" title="Fortinet - Introduction to the Threat Landscape 3.0 (NSE 1)">
-    <img src="https://images.credly.com/size/80x80/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png" alt="Fortinet Threat Landscape" width="80" height="80"/>
-  </a>
-  <a href="https://aws.amazon.com/training/" title="AWS Security Best Practices: Overview">
-    <img src="https://images.credly.com/size/80x80/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Security Best Practices" width="80" height="80"/>
-  </a>
-  <a href="https://learn.microsoft.com/" title="Microsoft Azure AI Essentials">
-    <img src="https://images.credly.com/size/80x80/images/72a8b54d-0d27-4719-854d-5f870949ad00/blob" alt="Microsoft Azure AI Essentials" width="80" height="80"/>
-  </a>
-  <a href="https://edu.google.com/" title="Google for Education - Estudante Universitário Certificado Gemini">
-    <img src="https://images.credly.com/size/80x80/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" alt="Google Gemini Certified" width="80" height="80"/>
-  </a>
-  <a href="https://idsec.com.br/" title="Analista de SOC - IDsec">
-    <img src="assets/badges/idsec-soc.svg" alt="Analista de SOC - IDsec" width="80" height="80"/>
-  </a>
-  <a href="https://forumtelecom.com.br/" title="Analista de Redes - Fórum Telecom">
-    <img src="assets/badges/forum-telecom.svg" alt="Analista de Redes - Fórum Telecom" width="80" height="80"/>
-  </a>
-  <a href="https://dio.me/" title="Riachuelo Cibersegurança - DIO">
-    <img src="assets/badges/dio-cyber.svg" alt="Riachuelo Cibersegurança - DIO" width="80" height="80"/>
-  </a>
-</p>
-
-<details>
-<summary>📋 <b>Ver credenciais detalhadas</b></summary>
-<br/>
-
-| Certificação | Emissor | Conclusão / Validade | Código / Credencial |
-| :--- | :--- | :--- | :--- |
-| **Estudante Universitário Certificado Gemini** | Google for Education | Ago 2026 – Ago 2029 | `191927503` |
-| **Analista de Redes** *(VMware, MikroTik, BGP)* | Fórum Telecom | Jun 2026 | *Fundamentos e Roteamento Avançado* |
-| **AWS Security Best Practices: Overview** | Amazon Web Services (AWS) | Mai 2026 | `cfc0df39-01b1-4eb4-ab90-d3735101a08f` |
-| **Introduction to the Threat Landscape 3.0** | Fortinet (NSE 1) | Mai 2026 | *Fortinet Training Institute* |
-| **Riachuelo Cibersegurança** | DIO / Riachuelo | Fev 2026 | `1C71FUIK` |
-| **Microsoft Azure AI Essentials** | Microsoft & LinkedIn | Jan 2026 | *Certificado Profissional* |
-| **Networking Basics** | Cisco Networking Academy | Out 2025 | *Credly Verified* |
-| **Analista de SOC** | IDsec | 2025 / 2026 | *Instituto de Defesa e Segurança Cibernética* |
-
-</details>
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://edu.google.com/"><img src="https://images.credly.com/size/80x80/images/ca55a8cf-9e9c-47e3-9378-d225d63dd1e5/blob.png" width="64" height="64" alt="Gemini Certified University Student"/></a><br/>
+      <b><sub>Gemini Certified University Student</sub></b><br/>
+      <sub>Google for Education</sub><br/>
+      <sub><code>Ago 2026 · válido até 2029</code></sub><br/>
+      <sub>191927503</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://forumtelecom.com.br/"><img src="assets/badges/forum-telecom.svg" width="64" height="64" alt="Analista de Redes"/></a><br/>
+      <b><sub>Analista de Redes</sub></b><br/>
+      <sub>Fórum Telecom</sub><br/>
+      <sub><code>Jun 2026</code></sub><br/>
+      <sub>VMware · MikroTik · BGP</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://aws.amazon.com/training/"><img src="https://images.credly.com/size/80x80/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" width="64" height="64" alt="AWS Security Best Practices"/></a><br/>
+      <b><sub>AWS Security Best Practices</sub></b><br/>
+      <sub>Amazon Web Services</sub><br/>
+      <sub><code>Mai 2026</code></sub><br/>
+      <sub>cfc0df39…a08f</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://www.credly.com/org/fortinet/badge/introduction-to-the-threat-landscape-1-0"><img src="https://images.credly.com/size/80x80/images/8395e492-f8aa-4617-a258-6c844f628fa2/image.png" width="64" height="64" alt="Threat Landscape 3.0 · NSE 1"/></a><br/>
+      <b><sub>Threat Landscape 3.0 · NSE 1</sub></b><br/>
+      <sub>Fortinet</sub><br/>
+      <sub><code>Mai 2026</code></sub><br/>
+      <sub>Fortinet Training Institute</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <a href="https://dio.me/"><img src="assets/badges/dio-cyber.svg" width="64" height="64" alt="Riachuelo Cibersegurança"/></a><br/>
+      <b><sub>Riachuelo Cibersegurança</sub></b><br/>
+      <sub>DIO · Riachuelo</sub><br/>
+      <sub><code>Fev 2026</code></sub><br/>
+      <sub>1C71FUIK</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://learn.microsoft.com/"><img src="https://images.credly.com/size/80x80/images/72a8b54d-0d27-4719-854d-5f870949ad00/blob" width="64" height="64" alt="Azure AI Essentials"/></a><br/>
+      <b><sub>Azure AI Essentials</sub></b><br/>
+      <sub>Microsoft · LinkedIn</sub><br/>
+      <sub><code>Jan 2026</code></sub><br/>
+      <sub>Certificado profissional</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://www.credly.com/org/cisco/badge/networking-basics"><img src="https://images.credly.com/size/80x80/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="64" height="64" alt="Networking Basics"/></a><br/>
+      <b><sub>Networking Basics</sub></b><br/>
+      <sub>Cisco Networking Academy</sub><br/>
+      <sub><code>Out 2025</code></sub><br/>
+      <sub>Credly verified</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <a href="https://idsec.com.br/"><img src="assets/badges/idsec-soc.svg" width="64" height="64" alt="Analista de SOC"/></a><br/>
+      <b><sub>Analista de SOC</sub></b><br/>
+      <sub>IDsec</sub><br/>
+      <sub><code>2025 · 2026</code></sub><br/>
+      <sub>Defesa e segurança cibernética</sub>
+    </td>
+  </tr>
+</table>
 
 ## Atividade
 

@@ -37,9 +37,9 @@ def make_badge_svg(title_top, title_bottom, color, icon_svg):
 """
 
 # IDsec SOC Analyst Icon (Shield with lock)
-idsec_icon = """<path d="M16 2L4 6v8c0 7.5 5.1 14.5 12 16 6.9-1.5 12-8.5 12-16V6l-12-4z" fill="none" stroke="#00E5FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="12" y="14" width="8" height="6" rx="1.5" fill="#00E5FF"/>
-<path d="M14 14v-2a2 2 0 0 1 4 0v2" fill="none" stroke="#00E5FF" stroke-width="1.8"/>"""
+idsec_icon = """<path d="M16 2L4 6v8c0 7.5 5.1 14.5 12 16 6.9-1.5 12-8.5 12-16V6l-12-4z" fill="none" stroke="#39FF14" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="12" y="14" width="8" height="6" rx="1.5" fill="#39FF14"/>
+<path d="M14 14v-2a2 2 0 0 1 4 0v2" fill="none" stroke="#39FF14" stroke-width="1.8"/>"""
 
 # Fórum Telecom / Analista de Redes (Network Routers / Switch Nodes)
 forum_icon = """<rect x="4" y="10" width="24" height="12" rx="3" fill="none" stroke="#00A4EF" stroke-width="2"/>
@@ -55,7 +55,7 @@ dio_icon = """<circle cx="16" cy="16" r="12" fill="none" stroke="#EA4B71" stroke
 <path d="M16 2v4M16 26v4M2 16h4M26 16h4" stroke="#EA4B71" stroke-width="1.8" stroke-linecap="round"/>"""
 
 with open(os.path.join(BADGES_DIR, "idsec-soc.svg"), "w", encoding="utf-8") as f:
-    f.write(make_badge_svg("IDSEC", "SOC ANALYST", "#00E5FF", idsec_icon))
+    f.write(make_badge_svg("IDSEC", "SOC ANALYST", "#39FF14", idsec_icon))
 
 with open(os.path.join(BADGES_DIR, "forum-telecom.svg"), "w", encoding="utf-8") as f:
     f.write(make_badge_svg("FÓRUM TEL", "NETWORK SPEC", "#00A4EF", forum_icon))
@@ -94,10 +94,10 @@ PROJECTS = [
         "slug": "cups",
         "name": "CUPS Root Intel",
         "kind": "SYSADMIN · UX",
-        "color": "#00E5FF",
-        "icon_path": """<rect x="36" y="36" width="28" height="20" rx="3" fill="none" stroke="#00E5FF" stroke-width="2.2"/>
-        <path d="M42 36V30a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v6M42 50v8h16v-8" fill="none" stroke="#00E5FF" stroke-width="2.2"/>
-        <line x1="40" y1="42" x2="44" y2="42" stroke="#00E5FF" stroke-width="2.5" stroke-linecap="round"/>""",
+        "color": "#39FF14",
+        "icon_path": """<rect x="36" y="36" width="28" height="20" rx="3" fill="none" stroke="#39FF14" stroke-width="2.2"/>
+        <path d="M42 36V30a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v6M42 50v8h16v-8" fill="none" stroke="#39FF14" stroke-width="2.2"/>
+        <line x1="40" y1="42" x2="44" y2="42" stroke="#39FF14" stroke-width="2.5" stroke-linecap="round"/>""",
         "lines": ["Interface moderna com Dark Theme,", "Command Palette (Ctrl+K) para CUPS."],
         "cta": "Repositório",
         "site_cta": "Ver Projeto",
